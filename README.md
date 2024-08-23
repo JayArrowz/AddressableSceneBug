@@ -1,6 +1,7 @@
 Reproduce:
 
 Step 1: Build a executable
+
 Step 2: Run it
 
 Step 3: Watch the scene not change and the error be displayed
@@ -45,4 +46,5 @@ NullReferenceException: Object reference not set to an instance of an object
 ```
 
 Step 4: Close exe and re-run
+
 Step 5: Scene changes fine.
