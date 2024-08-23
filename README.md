@@ -48,3 +48,6 @@ NullReferenceException: Object reference not set to an instance of an object
 Step 4: Close exe and re-run
 
 Step 5: Scene changes fine.
+
+
+When Unity downloads a scene it doesn't seem to register it until the application is restarted.
