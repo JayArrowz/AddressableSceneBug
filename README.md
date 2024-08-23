@@ -50,4 +50,4 @@ Step 4: Close exe and re-run
 Step 5: Scene changes fine.
 
 
-When Unity downloads a scene it doesn't seem to register it until the application is restarted.
+When Unity downloads a scene it doesn't seem to register it until the application is restarted. This issue only happens once the game is built. It does not happen in the unity editor
